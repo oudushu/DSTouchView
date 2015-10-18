@@ -1,8 +1,8 @@
 //
 //  ViewController.h
-//  DSTouchView
+//  DSDraggablePad
 //
-//  Created by 欧杜书 on 15/10/18.
+//  Created by 欧杜书 on 15/10/16.
 //  Copyright © 2015年 DuShu. All rights reserved.
 //
 
