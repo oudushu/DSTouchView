@@ -22,4 +22,4 @@
         touchView.delegate = self;
         [self.view addSubview:touchView];
 
-
+![](https://github.com/OuDuShu/DSTouchView/raw/master/DSTouchView/演示.gif) 
