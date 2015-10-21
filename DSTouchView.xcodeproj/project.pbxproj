@@ -16,6 +16,7 @@
 		0BA14B181BD3AA08006CD602 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0BA14B151BD3AA08006CD602 /* ViewController.m */; settings = {ASSET_TAGS = (); }; };
 		0BA14B191BD3AA08006CD602 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0BA14B161BD3AA08006CD602 /* Main.storyboard */; settings = {ASSET_TAGS = (); }; };
 		0BA14B1D1BD3AA89006CD602 /* DSTouchView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0BA14B1C1BD3AA89006CD602 /* DSTouchView.m */; settings = {ASSET_TAGS = (); }; };
+		0BBCBB381BD7C608001CEC9D /* 演示.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0BBCBB371BD7C608001CEC9D /* 演示.gif */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		0BA14B161BD3AA08006CD602 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		0BA14B1B1BD3AA89006CD602 /* DSTouchView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DSTouchView.h; sourceTree = "<group>"; };
 		0BA14B1C1BD3AA89006CD602 /* DSTouchView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DSTouchView.m; sourceTree = "<group>"; };
+		0BBCBB371BD7C608001CEC9D /* 演示.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "演示.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 		0BA14ADF1BD3A9D7006CD602 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0BBCBB371BD7C608001CEC9D /* 演示.gif */,
 				0BA14AE01BD3A9D7006CD602 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -256,6 +259,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0BBCBB381BD7C608001CEC9D /* 演示.gif in Resources */,
 				0BA14B191BD3AA08006CD602 /* Main.storyboard in Resources */,
 				0BA14AEF1BD3A9D7006CD602 /* LaunchScreen.storyboard in Resources */,
 				0BA14AEC1BD3A9D7006CD602 /* Assets.xcassets in Resources */,
@@ -504,6 +508,7 @@
 				0BA14B0B1BD3A9D7006CD602 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0BA14B0C1BD3A9D7006CD602 /* Build configuration list for PBXNativeTarget "DSTouchViewTests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +517,7 @@
 				0BA14B0E1BD3A9D7006CD602 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0BA14B0F1BD3A9D7006CD602 /* Build configuration list for PBXNativeTarget "DSTouchViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +526,7 @@
 				0BA14B111BD3A9D7006CD602 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

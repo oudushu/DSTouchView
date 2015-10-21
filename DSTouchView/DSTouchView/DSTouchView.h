@@ -1,6 +1,6 @@
 //
 //  DSTouchView.h
-//  Metronome
+//
 //
 //  Created by DuShu on 15/9/11.
 //  Copyright (c) 2015年 DuShu. All rights reserved.
